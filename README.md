@@ -15,7 +15,6 @@ Sou um desenvolvedor Front End. Atualmente estou aprendendo e criando projetos e
 ![](https://nirzak-streak-stats.vercel.app/?user=CaiqueMMarques&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueMMarques&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueMMarques)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CaiqueMMarques&limit=5&theme=dark&combine_all_yearly_contributions=true)
 

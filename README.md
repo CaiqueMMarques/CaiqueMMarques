@@ -1,5 +1,5 @@
 # Olá, meu nome é Caique Marques.
-Sou um desenvolvedor Front End. Atualmente estou aprendendo e criando projetos em HTML e CSS, e começando a aprender JavaScript e React. Porém tenho o objetivo de me tornar um desenvolvedor Full Stack.
+Sou um desenvolvedor Full Stack. Atualmente estou aprendendo e criando projetos em HTML, CSS e JavaScript.
 
 
 ## 🌐 Social network:

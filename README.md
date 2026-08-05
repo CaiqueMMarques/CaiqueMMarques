@@ -1,24 +1,38 @@
-# Olá, meu nome é Caique Marques.
-Sou um desenvolvedor Front-End. Atualmente estou aprendendo e criando projetos em HTML, CSS e JavaScript. Minha próxima trajetória é React.js e Node.js
+# Olá, eu sou o Caique 👋
 
+Desenvolvedor Front-End, de Lagoa do Ouro (PE), construindo projetos com HTML, CSS e JavaScript enquanto avanço para React.js e Node.js.
 
-## 🌐 Social network:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-marques-0900b9227/) 
+## 🚀 Sobre mim
 
-<h2>💻 Skills</h2>
+- 🎨 Front-End developer, focado em construir interfaces limpas e funcionais
+- 📍 Baseado em Lagoa do Ouro, Pernambuco, Brasil
+- 🌱 Aprendendo e praticando HTML, CSS e JavaScript no dia a dia
+- 🎯 Próximos passos: React.js e Node.js
+- 🛠️ Uso Figma para prototipar antes de codar
+
+## 💻 Tech Stack
+
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,github,vscode,figma" alt="JavaScript, HTML5, CSS3, Git, GitHub, VS Code, Figma" />
 </p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CaiqueMMarques&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CaiqueMMarques&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueMMarques&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=CaiqueMMarques&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📌 Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [**DevClub-Pro**](https://github.com/CaiqueMMarques/DevClub-Pro) | Recriação da landing page institucional da DevClub, com animações avançadas em GSAP e arquitetura modular em JavaScript puro (sem frameworks de UI). |
+| [**Dev-Burguers**](https://github.com/CaiqueMMarques/Dev-Burguers) | Cardápio de hamburgueria praticando métodos de array (`forEach`, `map`, `filter`, `reduce`), com preços promocionais e filtro de itens veganos. |
+| [**JokenPo**](https://github.com/CaiqueMMarques/JokenPo) | Jogo de pedra-papel-tesoura responsivo, praticando arrow functions e estruturas condicionais. |
+| [**Caixa-eletronico**](https://github.com/CaiqueMMarques/Caixa-eletronico) | Simulador de caixa eletrônico, praticando laços de repetição e funções. |
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caique-marques-0900b9227/)
+
+## 📊 GitHub Stats
+
+![](https://streak-stats.demolab.com/?user=CaiqueMMarques&theme=radical&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CaiqueMMarques&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://komarev.com/ghpvc/?username=CaiqueMMarques&color=blueviolet&style=flat)

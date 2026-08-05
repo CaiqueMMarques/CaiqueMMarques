@@ -5,7 +5,7 @@ Desenvolvedor Front-End, de Lagoa do Ouro (PE), construindo projetos com HTML, C
 ## 🚀 Sobre mim
 
 - 🎨 Front-End developer, focado em construir interfaces limpas e funcionais
-- 📍 Baseado em Lagoa do Ouro, Pernambuco, Brasil
+- 📍 Lagoa do Ouro, Pernambuco, Brasil
 - 🌱 Aprendendo e praticando HTML, CSS e JavaScript no dia a dia
 - 🎯 Próximos passos: React.js e Node.js
 - 🛠️ Uso Figma para prototipar antes de codar

@@ -21,9 +21,8 @@ Desenvolvedor Front-End, de Lagoa do Ouro (PE), construindo projetos com HTML, C
 | Projeto | Descrição |
 | --- | --- |
 | [**DevClub-Pro**](https://github.com/CaiqueMMarques/DevClub-Pro) | Recriação da landing page institucional da DevClub, com animações avançadas em GSAP e arquitetura modular em JavaScript puro (sem frameworks de UI). |
-| [**Dev-Burguers**](https://github.com/CaiqueMMarques/Dev-Burguers) | Cardápio de hamburgueria praticando métodos de array (`forEach`, `map`, `filter`, `reduce`), com preços promocionais e filtro de itens veganos. |
-| [**JokenPo**](https://github.com/CaiqueMMarques/JokenPo) | Jogo de pedra-papel-tesoura responsivo, praticando arrow functions e estruturas condicionais. |
-| [**Caixa-eletronico**](https://github.com/CaiqueMMarques/Caixa-eletronico) | Simulador de caixa eletrônico, praticando laços de repetição e funções. |
+| [**Quitanda-novo-dia**](https://github.com/CaiqueMMarques/Quitanda-novo-dia) | Landing page institucional da Quitanda Novo Dia. O site apresenta a loja, os diferenciais, uma pequena demonstração dos produtos, a história do negócio, reconhecimentos recebidos e as informações de horário, localização e contato, com o pedido finalizado via WhatsApp. |
+| [**E-commerce-Quitanda**](https://github.com/CaiqueMMarques/E-commerce-Quitanda) | Catálogo online da Quitanda Novo Dia, hortifruti em Lagoa do Ouro, PE. Sem carrinho de pagamento, o cliente monta a lista e envia o pedido pronto pelo WhatsApp. |
 
 ##  Conecte-se comigo
 
